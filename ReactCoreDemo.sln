@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactCoreDemo.Server", "ReactCoreDemo.Server\ReactCoreDemo.Server.csproj", "{97145807-FAD9-4970-B160-32C66B8E1575}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactcoredemo.client", "reactcoredemo.client\reactcoredemo.client.esproj", "{96B7FC60-118F-4852-B602-C586D1F6ABB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97145807-FAD9-4970-B160-32C66B8E1575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97145807-FAD9-4970-B160-32C66B8E1575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97145807-FAD9-4970-B160-32C66B8E1575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97145807-FAD9-4970-B160-32C66B8E1575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B7FC60-118F-4852-B602-C586D1F6ABB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B7FC60-118F-4852-B602-C586D1F6ABB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B7FC60-118F-4852-B602-C586D1F6ABB4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{96B7FC60-118F-4852-B602-C586D1F6ABB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B7FC60-118F-4852-B602-C586D1F6ABB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B7FC60-118F-4852-B602-C586D1F6ABB4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5A59626-93BF-4D88-83E3-82E12458FBCA}
+	EndGlobalSection
+EndGlobal
